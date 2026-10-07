@@ -122,7 +122,7 @@ export default function Home() {
                 Realizamos trabajos de construcción y reforma para viviendas y locales. Cuéntanos tu proyecto; nos ocupamos de cada detalle.
               </p>
               <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center">
-                <a href="#contacto" className="inline-flex min-h-14 items-center justify-center gap-4 bg-[#c8a45c] px-6 text-sm font-semibold text-[#171714] transition-colors hover:bg-[#dfc483]">
+                <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-14 items-center justify-center gap-4 bg-[#c8a45c] px-6 text-sm font-semibold text-[#171714] transition-colors hover:bg-[#dfc483]">
                   Consulta por WhatsApp <span aria-hidden="true" className="text-lg">↗</span>
                 </a>
                 <a href="tel:667898566" className="inline-flex min-h-14 items-center justify-center gap-3 border border-white/25 px-6 text-sm font-medium text-white transition-colors hover:border-[#c8a45c] hover:text-[#e2c681]">
