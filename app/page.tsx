@@ -5,6 +5,29 @@ export const metadata: Metadata = {
   title: "Obraksa Solano | Obras y reformas en Mallorca",
   description:
     "Obras y reformas para viviendas y locales en Mallorca. Calidad, compromiso y atención personalizada para cada proyecto.",
+  icons: {
+    icon: "/images/image.png"
+  },
+  openGraph: {
+    title: "Obraksa Solano | Obras y reformas en Mallorca",
+    description:
+      "Obras y reformas para viviendas y locales en Mallorca. Calidad, compromiso y atención personalizada para cada proyecto.",
+    images: [
+      {
+        url: "/images/image.png",
+        width: 1200,
+        height: 630,
+        alt: "Obraksa Solano",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Obraksa Solano | Obras y reformas en Mallorca",
+    description:
+      "Obras y reformas para viviendas y locales en Mallorca. Calidad, compromiso y atención personalizada para cada proyecto.",
+    images: ["/images/image.png"],
+  },
 };
 
 const whatsappUrl =
