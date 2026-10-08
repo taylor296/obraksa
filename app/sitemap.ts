@@ -3,7 +3,7 @@ import type { MetadataRoute } from "next";
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: "https://obraksa.es",
+      url: "https://www.obraksasolano.es",
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 1,

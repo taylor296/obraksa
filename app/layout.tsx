@@ -13,12 +13,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://obraksa.es"),
+  metadataBase: new URL("https://www.www.obraksasolano.es"),
   title: "Obraksa Solano | Obras y reformas en Mallorca",
   description:
     "Obras y reformas para viviendas y locales en Mallorca. Calidad, compromiso y atención personalizada para cada proyecto.",
   alternates: {
-    canonical: "https://obraksa.es",
+    canonical: "https://www.www.obraksasolano.es",
   },
   icons: {
     icon: "/images/image.png",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     title: "Obraksa Solano | Obras y reformas en Mallorca",
     description:
       "Obras y reformas para viviendas y locales en Mallorca. Calidad, compromiso y atención personalizada para cada proyecto.",
-    url: "https://obraksa.es",
+    url: "https://www.www.obraksasolano.es",
     siteName: "Obraksa Solano",
     locale: "es_ES",
     type: "website",

@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://obraksa.es/sitemap.xml",
+    sitemap: "https://www.obraksasolano.es/sitemap.xml",
   };
 }
